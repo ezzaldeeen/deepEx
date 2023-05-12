@@ -26,7 +26,7 @@ Contributions to this repository are always welcome. If you have any improvement
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for personal or commercial purposes. However, please ensure to provide appropriate attribution to the original authors of "Deep Learning from Scratch" when using the code.
+You are free to use, modify, and distribute the code in this repository for personal purposes. However, please ensure to provide appropriate attribution to the original authors of "Deep Learning from Scratch" when using the code.
 
 ## Resource
 
